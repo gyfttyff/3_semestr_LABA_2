@@ -1,0 +1,11 @@
+SETADD dog
+SETADD cat
+SETADD dog
+SET_AT cat
+SET_AT rabbit
+SETDEL dog
+SET_AT dog
+SETADD bird
+SET_AT bird
+SETDEL cat
+SET_AT cat
