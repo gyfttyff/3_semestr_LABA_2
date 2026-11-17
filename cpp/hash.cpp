@@ -188,7 +188,7 @@ bool DoubleHash::contains(const std::string& key) {
     return false;
 }
 
-// === Реализация GraphHash ===
+// GraphHash 
 
 GraphHash::GraphHash(int cap) {
     capacity = cap;
