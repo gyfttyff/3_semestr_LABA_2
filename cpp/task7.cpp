@@ -104,6 +104,7 @@ void task7() {
         std::string command;
         std::cin >> command;
         std::cout << std::endl;
+        
         std::cout << std::endl;
 
         if (command == "SET") {
