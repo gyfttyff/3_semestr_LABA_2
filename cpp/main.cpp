@@ -33,7 +33,7 @@ int main(int argc, char* argv[]) {
         }
         
         if (choice == 0) {
-            std::cout << "Выход из программы. Удачи!\n";
+            std::cout << "Выход из программы.\n";
             break;
         }
         

@@ -1,5 +1,5 @@
 #pragma once
-
+#include <string>  
 // для целых чисел с линейным пробированием
 struct HashSet {
     int* table;       // храним сами числа

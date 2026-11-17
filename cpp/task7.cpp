@@ -103,7 +103,10 @@ void task7() {
     for (int i = 0; i < q; i++) {
         std::string command;
         std::cin >> command;
+        std::cout << std::endl;
         
+        std::cout << std::endl;
+
         if (command == "SET") {
             int key, value;
             std::cin >> key >> value;
